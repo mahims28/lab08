@@ -8,7 +8,7 @@ public class CustomList {
 
     public CustomList() {
         this.cities = new ArrayList<>();
-    }
+    } //verifying CI setup
 
     public void addCity(City city) {
         cities.add(city);
